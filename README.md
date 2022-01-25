@@ -1,5 +1,6 @@
 <img align="left" src="img/sql-server-2019.png" width="250" >
 <br/><br/>
+
 # SQL Server 2019 - Useful Scripts
 Useful scripts for SQL Server 2019 (most works on older versions as well)
 
